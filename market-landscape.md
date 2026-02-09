@@ -1,4 +1,4 @@
-
+## Category 1: Generic Carbon Accounting Platforms
 | Platform | Enterprise-level Integrations | Measurement Method | OT Integration | GAMP-5 Safe | Pharma Ready |
 |---------|-------------------------------|-------------------|---------------|------------|--------------|
 | Salesforce Net Zero Cloud | ✔️ API / Connectors | Manual entry + utility bills | ❌ No | ❌ No | ❌ No |
